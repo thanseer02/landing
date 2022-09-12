@@ -1,0 +1,106 @@
+div#h1
+{
+    background-color: rgb(4, 4, 56);
+    text-align: center;
+    font-style: normal;
+    color: azure;
+    font-size: 27px;
+    font-family: 'Courier New', Courier, monospace;
+}
+a
+{
+    color: aliceblue;
+}
+.h2 a:link
+{
+    text-align: center;
+    color:rgb(235, 230, 223)
+    background-color: transparent;
+    text-decoration:none;
+}
+.h2 a:visited
+{
+    color: aliceblue;
+    background-color: transparent;
+    text-decoration: none;
+}
+.h2 a:hover
+{
+    color:antiquewhite;
+    background-color: transparent;
+    text-decoration: none;
+ } 
+div.h2
+{
+    text-align: center;
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(4, 4, 56);
+    color: aliceblue;
+}
+div.nav
+{
+    text-align: center;
+    font: size 19px; 
+}
+div#h3
+{
+    color: aliceblue;
+    text-align: center;
+    font-size: 27px;
+    margin: auto;
+    padding: 10px;
+    width: 60%;
+    font-family:cursive;
+    font-style: oblique;
+}
+div#h4
+{
+    color:aliceblue;
+    text-align: center;
+    font-size: 100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+div#h5
+{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 27px;
+}
+img.im
+{
+    
+
+    margin-right: 10px;
+    display: block;
+    border: 1px solid rgb(2, 2, 2);
+    border-radius:4px;
+    padding: 5px; 
+
+    scroll-margin-inline-end: 100px;
+
+}
+.it
+{
+    font-size: 16px;
+    background-color: antiquewhite;
+    padding: 11px 12px;
+    text-decoration: dotted;
+    display: inline-block;
+    margin:4px 2px ;
+    cursor:pointer;
+    opacity:0.4 ;
+    transition: 0.5s;
+}
+.it:hover
+{
+    opacity: 1;
+}
+
+
+
+   
+body
+{
+    background-image:url('new.jpg');
+}

@@ -103,4 +103,6 @@ img.im
 body
 {
     background-image:url('new.jpg');
+        background-repeat: no-repeat;
+
 }
